@@ -11,9 +11,9 @@ was a nano guy then came :wq!
 ### 🪧 Academically at here :
  
 <div style="display: flex; gap: 10px; align-items: center;">
-    <img src="images/rhce.png" alt="RHCE" width="150" height="150"/>
-    <img src="images/rhcsa.png" alt="RHCSA" width="150" height="150"/>
-    <img src="images/google-cybersecurity-certificate.png" alt="RHCSA" width="150" height="150"/>
+    <img src="media/rhce.png" alt="RHCE" width="150" height="150"/>
+    <img src="media/rhcsa.png" alt="RHCSA" width="150" height="150"/>
+    <img src="media/google-cybersecurity-certificate.png" alt="RHCSA" width="150" height="150"/>
 
 </div>
 
