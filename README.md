@@ -4,7 +4,7 @@
 
  🙋🏻 **i like LINUX,   Cybersecurity  also  Red Teaming** 
 
-was a nano guy then came :wq! 
+:q! doesn’t exit life’s problems, but at least it exits vim."
 
 ---
 
